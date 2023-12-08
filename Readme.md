@@ -1,6 +1,6 @@
 Wavy hair detection using CNN
 
-Authors: LIN Hansheng, ZHONG Zichao
+Authors: LIN Hansheng (hanshelin2-c@my.cityu.edu.hk), ZHONG Zichao (zichaozhong@LN.hk)
 
 Dataset: CelebA Dataset
 
